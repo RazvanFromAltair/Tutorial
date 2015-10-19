@@ -1,6 +1,8 @@
 some file
-some line
+some line Some update also part of change 2
 change in my branch....
 mybranch again
 
 Change 1
+
+Change 2
